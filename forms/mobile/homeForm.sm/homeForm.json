@@ -35,6 +35,8 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "homeForm",
+    "ide_postshow": "AS_Form_b32c0843fec04feb8f958b0e83a78904",
+    "ide_preshow": "AS_Form_10d3a4895c5b4b45849d5413c06ac5d4",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": {
@@ -120,8 +122,6 @@
     "needappmenu": true,
     "paddinginpixel": false,
     "platform": "android",
-    "postshow": "AS_Form_b32c0843fec04feb8f958b0e83a78904",
-    "preshow": "AS_Form_10d3a4895c5b4b45849d5413c06ac5d4",
     "prevDevice": "GalaxyNote",
     "prevPlatform": "iphone",
     "retainscrollposition": false,

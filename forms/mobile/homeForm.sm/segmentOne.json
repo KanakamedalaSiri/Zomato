@@ -97,6 +97,7 @@
     "groupcells": false,
     "hasSections": false,
     "id": "segmentOne",
+    "ide_onrowclick": "AS_Segment_0bfc2ceb375947daa1d78de24dad42ea",
     "info": null,
     "ipad": {
         "psp": {
@@ -113,7 +114,6 @@
     "masterdata": {},
     "name": "kony.ui.SegmentedUI2",
     "needpageindicator": true,
-    "onrowclick": "AS_Segment_0bfc2ceb375947daa1d78de24dad42ea",
     "pageoffdotimage": "pageoffdot.png",
     "pageondotimage": "pageondot.png",
     "paginationconfig": {

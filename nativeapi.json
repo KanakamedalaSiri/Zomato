@@ -1,66 +1,71 @@
 {
     "NativeFunctionAPI": {
-        "iOS": {
-            "11.0": {
-                "Kony_SyncV2-iOS-11.0": {
-                    "title": "Kony_SyncV2",
-                    "platform": "iOS",
-                    "os": "11.0",
-                    "url": "/Applications/KonyVisualizerEnterprise8/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/496/1/.cp/resources/sdk/nativeBindings/Kony_SyncV2-iOS-11.0.zip",
-                    "filepath": "/Volumes/DATA/KonyWorkSpace/84/zomato/nativebindings/iOS/11.0/Kony_SyncV2-iOS-11.0.zip",
+        "Android": {
+            "4.0": {
+                "Kony_FileStorage-Android-4.0": {
                     "enable": true,
-                    "isDefault": true
-                },
-                "Kony_FileStorage-iOS-11.0": {
+                    "filename": "Kony_FileStorage-Android-4.0.zip",
+                    "isDefault": true,
+                    "os": "4.0",
+                    "platform": "Android",
                     "title": "Kony_FileStorage",
-                    "platform": "iOS",
-                    "os": "11.0",
-                    "isDefault": true,
-                    "url": "/Volumes/DATA/KonyVisualizerEnterprise8.4.0.57/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/538/1/.cp/resources/sdk/nativeBindings/Kony_FileStorage-iOS-11.0.zip",
-                    "filepath": "/Volumes/DATA/KonyWorkSpace/84/zomato/nativebindings/iOS/11.0/Kony_FileStorage-iOS-11.0.zip",
-                    "enable": true
+                    "url": "/Volumes/DATA/KonyVisualizerEnterprise8.4.0.57/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/538/1/.cp/resources/sdk/nativeBindings/Kony_FileStorage-Android-4.0.zip"
                 },
-                "Kony_SDKCommons-iOS-11.0": {
-                    "title": "Kony_SDKCommons",
-                    "platform": "iOS",
-                    "os": "11.0",
+                "Kony_SDKCommons-Android-4.0": {
+                    "enable": true,
+                    "filename": "Kony_SDKCommons-Android-4.0.zip",
                     "isDefault": true,
-                    "url": "/Volumes/DATA/KonyVisualizerEnterprise8.4.0.57/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/538/1/.cp/resources/sdk/nativeBindings/Kony_SDKCommons-iOS-11.0.zip",
-                    "filepath": "/Volumes/DATA/KonyWorkSpace/84/zomato/nativebindings/iOS/11.0/Kony_SDKCommons-iOS-11.0.zip",
-                    "enable": true
+                    "os": "4.0",
+                    "platform": "Android",
+                    "title": "Kony_SDKCommons",
+                    "url": "/Volumes/DATA/KonyVisualizerEnterprise8.4.0.57/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/538/1/.cp/resources/sdk/nativeBindings/Kony_SDKCommons-Android-4.0.zip"
+                },
+                "Kony_SyncV2-Android-4.0": {
+                    "enable": true,
+                    "filename": "Kony_SyncV2-Android-4.0.zip",
+                    "isDefault": true,
+                    "os": "4.0",
+                    "platform": "Android",
+                    "title": "Kony_SyncV2",
+                    "url": "/Applications/KonyVisualizerEnterprise8/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/496/1/.cp/resources/sdk/nativeBindings/Kony_SyncV2-Android-4.0.zip"
                 }
             }
         },
-        "Android": {
-            "4.0": {
-                "Kony_SyncV2-Android-4.0": {
-                    "title": "Kony_SyncV2",
-                    "platform": "Android",
-                    "os": "4.0",
-                    "url": "/Applications/KonyVisualizerEnterprise8/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/496/1/.cp/resources/sdk/nativeBindings/Kony_SyncV2-Android-4.0.zip",
-                    "filepath": "/Volumes/DATA/KonyWorkSpace/84/zomato/nativebindings/Android/4.0/Kony_SyncV2-Android-4.0.zip",
+        "iOS": {
+            "11.0": {
+                "Kony_FileStorage-iOS-11.0": {
                     "enable": true,
-                    "isDefault": true
-                },
-                "Kony_FileStorage-Android-4.0": {
+                    "filename": "Kony_FileStorage-iOS-11.0.zip",
+                    "isDefault": true,
+                    "os": "11.0",
+                    "platform": "iOS",
                     "title": "Kony_FileStorage",
-                    "platform": "Android",
-                    "os": "4.0",
-                    "isDefault": true,
-                    "url": "/Volumes/DATA/KonyVisualizerEnterprise8.4.0.57/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/538/1/.cp/resources/sdk/nativeBindings/Kony_FileStorage-Android-4.0.zip",
-                    "filepath": "/Volumes/DATA/KonyWorkSpace/84/zomato/nativebindings/Android/4.0/Kony_FileStorage-Android-4.0.zip",
-                    "enable": true
+                    "url": "/Volumes/DATA/KonyVisualizerEnterprise8.4.0.57/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/538/1/.cp/resources/sdk/nativeBindings/Kony_FileStorage-iOS-11.0.zip"
                 },
-                "Kony_SDKCommons-Android-4.0": {
-                    "title": "Kony_SDKCommons",
-                    "platform": "Android",
-                    "os": "4.0",
+                "Kony_SDKCommons-iOS-11.0": {
+                    "enable": true,
+                    "filename": "Kony_SDKCommons-iOS-11.0.zip",
                     "isDefault": true,
-                    "url": "/Volumes/DATA/KonyVisualizerEnterprise8.4.0.57/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/538/1/.cp/resources/sdk/nativeBindings/Kony_SDKCommons-Android-4.0.zip",
-                    "filepath": "/Volumes/DATA/KonyWorkSpace/84/zomato/nativebindings/Android/4.0/Kony_SDKCommons-Android-4.0.zip",
-                    "enable": true
+                    "os": "11.0",
+                    "platform": "iOS",
+                    "title": "Kony_SDKCommons",
+                    "url": "/Volumes/DATA/KonyVisualizerEnterprise8.4.0.57/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/538/1/.cp/resources/sdk/nativeBindings/Kony_SDKCommons-iOS-11.0.zip"
+                },
+                "Kony_SyncV2-iOS-11.0": {
+                    "enable": true,
+                    "filename": "Kony_SyncV2-iOS-11.0.zip",
+                    "isDefault": true,
+                    "os": "11.0",
+                    "platform": "iOS",
+                    "title": "Kony_SyncV2",
+                    "url": "/Applications/KonyVisualizerEnterprise8/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/496/1/.cp/resources/sdk/nativeBindings/Kony_SyncV2-iOS-11.0.zip"
                 }
             }
+        }
+    },
+    "Metadata": {
+        "Version": {
+            "iOS": "3.0"
         }
     }
 }

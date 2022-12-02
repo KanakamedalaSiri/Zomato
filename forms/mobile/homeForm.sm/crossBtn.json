@@ -38,11 +38,11 @@
     "displaytext": true,
     "focusskin": "sac2823db6ef475aa4c1568f81551af0",
     "id": "crossBtn",
+    "ide_onclick": "AS_Button_ab19829453b24591b8a4103f683fbf62",
     "info": null,
     "isvisible": true,
     "kuid": "a4c9c555c42a498a99eb678b5f774e01",
     "name": "kony.ui.Button",
-    "onclick": "AS_Button_ab19829453b24591b8a4103f683fbf62",
     "parent": "quickMenuFlex",
     "pf": "homeForm",
     "wType": "Button"

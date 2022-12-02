@@ -41,6 +41,8 @@
     "enabledforidletimeout": false,
     "enablescrolling": false,
     "id": "loginForm",
+    "ide_postshow": "ACTION_SEQUENCE_AS_h648b84b935a465fa33f2d20be69e5ae",
+    "ide_preshow": "AS_Form_8a2b2db128ad490ea7c8ad90b4f9b9fe",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": {
@@ -143,8 +145,6 @@
     "paddinginpixel": false,
     "percent": true,
     "platform": "android",
-    "postshow": "AS_Form_bb73d4b674e74614817596b66b560cdc",
-    "preshow": "AS_Form_8a2b2db128ad490ea7c8ad90b4f9b9fe",
     "prevDevice": "GalaxyNote",
     "prevPlatform": "iphone",
     "retainscrollposition": false,

@@ -38,11 +38,11 @@
     "displaytext": true,
     "focusskin": "sac2823db6ef475aa4c1568f81551af0",
     "id": "menuBtn",
+    "ide_onclick": "AS_Button_997e8d815c754184a86286a4bfe4f9d1",
     "info": null,
     "isvisible": true,
     "kuid": "5f47d516ab794db2b4fe7749faace5e0",
     "name": "kony.ui.Button",
-    "onclick": "AS_Button_997e8d815c754184a86286a4bfe4f9d1",
     "parent": "topFlex",
     "pf": "homeForm",
     "wType": "Button"

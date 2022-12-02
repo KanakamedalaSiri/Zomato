@@ -48,11 +48,6 @@
         "isForked": false,
         "wType": "Label"
     },
-    "spabb": {
-        "font_size": 70,
-        "isForked": false,
-        "wType": "Label"
-    },
     "spaip": {
         "font_size": 70,
         "isForked": false,
