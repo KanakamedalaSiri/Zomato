@@ -1,0 +1,35 @@
+{
+    "splashScreen": {
+        "mobile": {
+            "iphone": {},
+            "android": {
+                "backgroundColor": "ff0000"
+            },
+            "winphone8": {},
+            "spa": {
+                "backgroundColor": "f20000"
+            },
+            "spaip": {},
+            "spaan": {},
+            "spawinphone8": {},
+            "splashImage": "zomato2.png",
+            "showLoadingIndicator": false
+        },
+        "tablet": {
+            "ipad": {
+                "landscape": {}
+            },
+            "android": {},
+            "windows8": {},
+            "spa": {},
+            "spaipad": {},
+            "spaandroidtablet": {},
+            "spawindowstablet": {},
+            "windows10": {}
+        },
+        "desktop": {
+            "desktopweb": {},
+            "kiosk": {}
+        }
+    }
+}
