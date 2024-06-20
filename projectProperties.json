@@ -261,9 +261,9 @@
     "cordovaVersionInfo": {
         "useGlobalCordova": false
     },
-    "createdVizVersion": "2.9.0",
-    "createdgaversion": "6.9.0",
-    "currentgaversion": "8.4.19",
+    "createdVizVersion": "9.5.322",
+    "createdgaversion": "9.5.322",
+    "currentgaversion": "9.5.322",
     "customgcmbroadcastreceiver": "",
     "deeplinkkey": "None",
     "defaulttheme": "defaultTheme",
